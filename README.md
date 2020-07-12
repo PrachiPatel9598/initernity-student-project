@@ -1,1 +1,1 @@
-# initernity-student-project
+# internity-student-project
